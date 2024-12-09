@@ -1,0 +1,41 @@
+#H1Basic{
+  color: white;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size: 80px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#PBasic{
+  color: white;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+Nav a{
+color: white;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+text-align: center;
+font-size: 30px;
+position: absolute;
+top: 70%;
+left: 50%;
+transform: translate(-50%, -50%);
+padding: 10px 30px;
+border: 1px solid #ffffff;
+border-radius: 5px;
+text-decoration: none;
+display: inline-block;
+}
+#bodystart{
+  background-image: url("../Images/Bluemap.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
